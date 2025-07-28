@@ -43,9 +43,6 @@ Veja como o site EducaTech fica em diferentes telas:
 ![Página inicial - mobile](assets/print02.png)  
 *Visualização mobile*
 
-
-> *(Caso você salve com outro nome ou em outro local, atualize o link acima para refletir o caminho certo.)*
-
 ---
 
 ## 🚀 Como executar o projeto localmente
